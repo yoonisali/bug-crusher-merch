@@ -12,10 +12,7 @@ function Header() {
       <div id="checkout">
         <button type="submit">Checkout</button>
         <p>Cart: 0</p>
-
-          {/* Placeholder */}
-          
-
+        {/* Placeholder */}
       </div>
     </div>
   );
